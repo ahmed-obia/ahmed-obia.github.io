@@ -1,5 +1,5 @@
 let time = 0;
-let Title = 'obia.ahmed1337';
+let Title = 'obia.ahmed';
 let direction = true;
 aniTitle = setInterval(function() {
     if (time == Title.length) direction = false;
